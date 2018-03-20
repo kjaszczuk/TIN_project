@@ -4,5 +4,6 @@
 int main()
 {
     printf("Hello world!\n");
+    puts("ANYONE THERE?\n");
     return 0;
 }
